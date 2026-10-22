@@ -1,0 +1,5 @@
+# Raw skeleton data comes from a third-party public dataset (see data/README.md)
+data/Normal/
+data/Steppage/
+*.mat
+*.asv
